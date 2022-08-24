@@ -1,4 +1,4 @@
-# Module 6 Challenge: Housing Rental Analysis for San Francisco
+# Housing Rental Analysis for San Francisco
 
 ### Package Requirments
 `pip install x` where x is the below listed packages
